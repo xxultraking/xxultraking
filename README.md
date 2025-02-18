@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my GitHub profile 👋
 
 - 🤓 Business IT student at ZHAW University of Applied Sciences Zurich
 - 🤔 Interested in:
