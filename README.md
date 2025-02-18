@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🤓 Business IT student at ZHAW University of Applied Sciences Zurich
+- 🤔 Interested in:
+  - 🤖 Technology
+  - ₿   Economics
+- In my freetime, I like to:
+  - 🌍 Travel
+  - 🚴‍♂️ 🏃 Do Sports 🏂⚽
+- 📍 Zurich, Switzerland
 <!--
 **xxultraking/xxultraking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
